@@ -55,6 +55,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 ### Some Other Resources
 
 - [Genki Textbook Practicing Website](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
+- [Itazuraneko Kana Drill](https://itazuraneko.neocities.org/learn/kana.html)
 - [Hiragana Reading Practice](https://crunchynihongo.com/hiragana-reading-practice/)
 - [Reading Practice All Levels](https://yomujp.com/)
 - [N3 Resources](https://sites.google.com/view/n3resources/home)
