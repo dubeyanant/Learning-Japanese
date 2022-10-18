@@ -37,7 +37,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa)
 - [Onomappu](https://www.youtube.com/c/Onomappu/videos)
 - [Namasensei's Japanese Course](https://www.youtube.com/playlist?list=PL9987A659670D60E0)
-- [Japanese from scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+- [Cure Dolly's Japanese from scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
 - [Game Gengo Japanese](https://www.youtube.com/c/GameGengo/playlists)
 - [Japanese 101](https://www.youtube.com/playlist?list=PLn0gNfHzKO0SiD_dOejCHTGHRON_uLWUn)
 
