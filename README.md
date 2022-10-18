@@ -1,22 +1,22 @@
 # Learning Japanese
 
-<img src="https://i.redd.it/d3lxqzkgy1241.jpg" alt="Japanese in a Nutshell" style="zoom: 20%;" />
+<img src="https://i.redd.it/d3lxqzkgy1241.jpg" alt="Japanese in a Nutshell" style="zoom: 15%;" />
 
 - [A Guide to Japan](https://www.japan-guide.com/)
 - [Japanese Guide: Syllabus, Study list, Flashcards, Ebooks](https://jlptsensei.com/how-to-pass-jlpt-n5-study-guide/)
-- [Multiple Resources](https://www.reddit.com/r/LearnJapanese/comments/gjwkqf/beginner_starter_pack_top_anime_games_manga/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Japanese Learning Guide
 
 - [Tofugu Guide to Japanese](https://www.tofugu.com/learn-japanese/)
 - [Tae Kim's Guide to Japanese](https://guidetojapanese.org/learn/)
-- [Refold Guide to Japanese](https://docs.google.com/document/d/1h_DJSIAgguribukMslR-GibBoVKnXTLtVJDAg_sNQws/edit)
+- [Refold Guide to Japanese](https://drive.google.com/file/d/1P1K4zGP8_KtS2VwNwhqo6ZN_7ZZCZGMe/view?usp=sharing)
 - [r/LearnJapanese Guide to Japanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 
 ## Books on Japanese
 
-- [Minna No Nihongo](https://drive.google.com/drive/folders/14fH5L6qRUAVAH5WybOSTwzfAhhMnuw5_?usp=sharing)
-- [Genki](https://drive.google.com/drive/folders/1tsAP22jIbky9tgeE1BG5hJ89NGh_wZpI?usp=sharing)
+- [Minna No Nihongo](https://drive.google.com/drive/folders/1zpCJlp9DnIoFrP6nU0PT2PM3poaEOmml?usp=sharing)
+- [Genki](https://drive.google.com/drive/folders/11s_HGeksRtUkc4I4C2UO1BGG1rHycc2q?usp=sharing)
+- [More Books](https://drive.google.com/drive/folders/1PmCI5Og8ZHte64lHTZAXBv3sqvePbkmu?usp=sharing)
 
 ## Media on Japanese
 
@@ -38,6 +38,7 @@
 - [Memrise](https://www.memrise.com/app)
 - [N3 Resources](https://sites.google.com/view/n3resources/home)
 - [N5 Dokkai](https://japanesetest4you.com/category/jlpt-n5/jlpt-n5-reading-tests/)
+- [Multiple Resources](https://www.reddit.com/r/LearnJapanese/comments/gjwkqf/beginner_starter_pack_top_anime_games_manga/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Reads on Japanese
 
