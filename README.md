@@ -62,6 +62,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [N5 Dokkai](https://japanesetest4you.com/category/jlpt-n5/jlpt-n5-reading-tests/)
 - [WaniKani - Kanji](https://www.wanikani.com/)
 - [Japanese Guide: Syllabus, Study list, Flashcards, Ebooks](https://jlptsensei.com/how-to-pass-jlpt-n5-study-guide/)
+- [JPDB - Crowdsourced J2E Dictionary, Media Database, Automatic i+1 Kanji/Vocab Flashcards](https://jpdb.io/)
 - [Multiple Resources](https://www.reddit.com/r/LearnJapanese/comments/gjwkqf/beginner_starter_pack_top_anime_games_manga/?utm_source=share&utm_medium=web2x&context=3)
 
 ### Reads on Japanese
