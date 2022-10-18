@@ -1,6 +1,6 @@
 # Learning Japanese
 
-<img src="https://i.redd.it/d3lxqzkgy1241.jpg" alt="Japanese in a Nutshell" style="zoom: 15%;" />
+[<img src="https://i.redd.it/d3lxqzkgy1241.jpg" alt="Japanese in a Nutshell" style="zoom: 15%;" />](https://i.ibb.co/nr4WDzQ/Untitled.png)
 
 ### [A Guide to Japan](https://www.japan-guide.com/)
 
@@ -48,18 +48,22 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 
 💴 - app requires payment
 
-- [Anki Flashcards](https://apps.ankiweb.net/) 📱
-- [Memrise](https://www.memrise.com/app) 📱
+🆓 - free
+
+- [Anki Flashcards](https://apps.ankiweb.net/) 🆓💴📱
+- [Memrise](https://www.memrise.com/app) 🆓💴📱
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) 💴
 - [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) 💴📱
 - [Tobo Learn Japanese Vocabulary](https://play.google.com/store/apps/details?id=com.learn.common.japanese.vocabulary.words.learning.phrases)📱
 - [Renshuu](https://www.renshuu.org/) 📱
 - [HiNative](https://hinative.com/) 💴📱
-- [Yomikata Z](https://play.google.com/store/apps/details?id=com.jehutyno.yomikata&hl=en_IN&gl=US)
+- [Yomikata Z](https://play.google.com/store/apps/details?id=com.jehutyno.yomikata&hl=en_IN&gl=US) 🆓
+- [Takaboto Offline Dictionary](https://takoboto.jp/apps/) 🆓
 
 ### Some Other Resources
 
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) - A website for practicing the Genki material
+- [Itazuraneko Kana Drill](https://itazuraneko.neocities.org/learn/kana.html) - A flashcard-based, configurable Hiragana/Katakana drill for improving character recognition accuracy and speed
 - [Hiragana Reading Practice](https://crunchynihongo.com/hiragana-reading-practice/)
 - [Reading Practice All Levels](https://yomujp.com/)
 - [N3 Resources](https://sites.google.com/view/n3resources/home)
