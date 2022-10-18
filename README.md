@@ -21,6 +21,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 
 - [Minna No Nihongo](https://drive.google.com/drive/folders/1zpCJlp9DnIoFrP6nU0PT2PM3poaEOmml?usp=sharing)
 - [Genki](https://drive.google.com/drive/folders/11s_HGeksRtUkc4I4C2UO1BGG1rHycc2q?usp=sharing)
+- [An introduction to Japanese: Syntax, Grammar & Language](https://pomax.github.io/nrGrammar/)
 - [More Books](https://drive.google.com/drive/folders/1PmCI5Og8ZHte64lHTZAXBv3sqvePbkmu?usp=sharing)
 
 ### Media on Japanese
