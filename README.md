@@ -14,6 +14,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Tae Kim's Guide to Japanese](https://guidetojapanese.org/learn/)
 - [Refold Guide to Japanese](https://drive.google.com/file/d/1P1K4zGP8_KtS2VwNwhqo6ZN_7ZZCZGMe/view?usp=sharing)
 - [r/LearnJapanese Guide to Japanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [TheMoeWay Guide to Japanese](https://learnjapanese.moe/guide/)
 
 ---
 
