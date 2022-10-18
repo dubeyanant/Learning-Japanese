@@ -27,6 +27,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 
 - [Anime for Japanese Begginers](https://www.reddit.com/r/LearnJapanese/comments/nhudyb/good_anime_for_learning_japanese/)
 - [Podcast for Japanese Begginers](https://anchor.fm/69612)
+- [Lazy Fluency - Bilingual Japanese/English Podcast](https://podcasts.apple.com/us/podcast/lazy-fluency-japanese-podcast-%E8%8B%B1%E4%BC%9A%E8%A9%B1/id1611111523)
 
 ### Youtube Channels & Playlist for Japanese
 
