@@ -27,6 +27,13 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Kodansha Kanji Learner's Course](https://mega.nz/file/ncYFXTyJ#KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ)
 - [More Books](https://drive.google.com/drive/folders/1PmCI5Og8ZHte64lHTZAXBv3sqvePbkmu?usp=sharing)
 
+### Kanji
+
+- [KanjiDamage](https://www.kanjidamage.com/)
+- [WaniKani](https://www.wanikani.com/)
+- [Kanji All in One Heisig RTK + Kondansha KKLC + Vocabulary Ex](https://ankiweb.net/shared/info/1558868613) - Anki Deck
+- [All in One Kanji Deck](https://ankiweb.net/shared/info/798002504) - Anki Deck
+
 ### Media on Japanese
 
 - [Anime for Japanese Beginners](https://www.reddit.com/r/LearnJapanese/comments/nhudyb/good_anime_for_learning_japanese/)
@@ -71,7 +78,6 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Reading Practice All Levels](https://yomujp.com/)
 - [N3 Resources](https://sites.google.com/view/n3resources/home)
 - [N5 Dokkai](https://japanesetest4you.com/category/jlpt-n5/jlpt-n5-reading-tests/)
-- [WaniKani](https://www.wanikani.com/) - A platform for Kanji
 - [Japanese Guide: Syllabus, Study list, Flashcards, eBooks](https://jlptsensei.com/how-to-pass-jlpt-n5-study-guide/)
 - [JPDB](https://jpdb.io/) - Crowdsourced J2E Dictionary, Media Database, Automatic i+1 Kanji/Vocab Flashcards
 - [Kitsun.io](https://kitsun.io/) - An alternative for Anki
@@ -90,3 +96,4 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Japanese for quitters](https://www.reddit.com/r/LearnJapanese/comments/igze87/japanese_for_quitters/?utm_source=share&utm_medium=web2x&context=3)
 - [Guide to swear in Japanese](https://www.reddit.com/r/LearnJapanese/comments/iqztxk/how_to_swear_in_japanese_a_guide/?utm_source=share&utm_medium=web2x&context=3)
 - [I read 25 books and 75 manga volumes!](https://www.reddit.com/r/LearnJapanese/comments/y23hjd/i_read_25_books_and_75_manga_volumes_sharing_my/?utm_source=share&utm_medium=web2x&context=3)
+- [Why most kanji textbooks suck!?](https://www.kanjidamage.com/introduction) - An introduction to KanjiDamage method of learning kanji
