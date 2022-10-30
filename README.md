@@ -83,6 +83,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Kitsun.io](https://kitsun.io/) - An alternative for Anki
 - [Kuzushiji database](http://codh.rois.ac.jp/char-shape/search/) - A website to search a character in Japanese and it will return with different images of the same character in different cursive writings
 - [Kakijun.jp](https://kakijun.jp/) - Same as above but with characters in different fonts
+- [Tadoku Read](https://tadoku.org/japanese/en/) - Reading material based on different levels
 - [Multiple Resources](https://www.reddit.com/r/LearnJapanese/comments/gjwkqf/beginner_starter_pack_top_anime_games_manga/?utm_source=share&utm_medium=web2x&context=3)
 
 ### Reads on Japanese
