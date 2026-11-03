@@ -73,7 +73,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 ### Some Other Resources
 
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) - A website for practicing the Genki material
-- [Itazuraneko Kana Drill](https://itazuraneko.neocities.org/learn/kana.html) - A flashcard-based, configurable Hiragana/Katakana drill for improving character recognition accuracy and speed
+- [Kana Dash](https://kanadash.com/) - A Hiragana/Katakana reading drill that moves on as soon as you type the right romaji, from single kana up to words and short sentences
 - [Hiragana Reading Practice](https://crunchynihongo.com/hiragana-reading-practice/)
 - [Reading Practice All Levels](https://yomujp.com/)
 - [N3 Resources](https://sites.google.com/view/n3resources/home)
