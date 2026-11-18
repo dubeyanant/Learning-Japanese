@@ -69,6 +69,7 @@ Read introduction to all of them. Choose any one of them. They are all self-suff
 - [Yomikata Z](https://play.google.com/store/apps/details?id=com.jehutyno.yomikata&hl=en_IN&gl=US) 🆓
 - [Takaboto Offline Dictionary](https://takoboto.jp/apps/) 🆓
 - [LingQ](https://www.lingq.com/en/) 🆓💴📱
+- [Orizuru](https://play.google.com/store/apps/details?id=fyi.orizuru.app) 🆓💴
 
 ### Some Other Resources
 
